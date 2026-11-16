@@ -27,4 +27,4 @@ python main.py
 
 ## Licença
 
-Uso livre.
+Distribuído sob a [Licença MIT](LICENSE).
