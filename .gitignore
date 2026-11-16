@@ -1,0 +1,12 @@
+# Arquivos gerados pelo Python / PyInstaller
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Configurações locais do editor/Claude Code (podem conter dados pessoais)
+.claude/
+
+# Arquivos de teste temporários
+_smoke_test.py
